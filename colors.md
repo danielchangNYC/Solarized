@@ -27,14 +27,14 @@ base0:     #839496;
 base1:     #93a1a1;
 base2:     Smoke;
 base3:     Flour
-yellow:    #b58900;
-orange:    #cb4b16;
-red:       #dc322f;
+yellow:    Brick;
+orange:    Cheddar;
+red:       BrickHover;
 magenta:   #d33682;
 violet:    Soda;
 blue:      #268bd2;
 cyan:      Basil;
-green:     #859900;
+green:     Charcoal;
 ```
 
 ```
