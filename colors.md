@@ -17,8 +17,43 @@ cyan:      #2aa198;
 green:     #859900;
 ```
 
+Slicified Light:
+
+```
+base02:    #073642;
+base01:    #586e75;
+base00:    #657b83;
+base0:     #839496;
+base1:     #93a1a1;
+base2:     Smoke;
+base3:     Flour
+yellow:    #b58900;
+orange:    #cb4b16;
+red:       #dc322f;
+magenta:   #d33682;
+violet:    Soda;
+blue:      #268bd2;
+cyan:      Basil;
+green:     #859900;
+```
+
+```
+Dough:          #fdf7f1
+Charcoal:       #4c4c4c
+Brick:          #c54531
+Steel:          #858585
+Stone:          #c4c4c4
+Smoke:          #e8e8e8
+Flour:          #f6f6f6
+Cheddar:        #cf7e00
+Basil:          #15884f
+Soda:           #2d697d
+CharcoalHover:  #3f3f3f
+BrickHover:     #b33f2d
+```
+
 ## ACCENT
-Colour    |  Use 
+Colour    |  Use
 --------- | -----
 `#b58900` | instance?
 `#cb4b16` | include/import
@@ -30,7 +65,7 @@ Colour    |  Use
 `#859900` | punctuation.definition
 
 ## LIGHT
-Colour    |  Use 
+Colour    |  Use
 --------- | -----
 base3     | bg
 base2     | highlights bg (current line, gutter)
@@ -45,7 +80,7 @@ base03    | unused
 `#ec9489` | invalid   (red   on base3; 33%)
 
 ## DARK
-Colour    |  Use 
+Colour    |  Use
 --------- | -----
 base03    | bg
 base02    | highlight
