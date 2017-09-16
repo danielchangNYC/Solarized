@@ -25,14 +25,14 @@ base01:    #586e75;
 base00:    #657b83;
 base0:     #839496;
 base1:     #93a1a1;
-base2:     Smoke;
-base3:     Flour
+base2:     Flour;
+base3:     Dough
 yellow:    Brick;
 orange:    Cheddar;
 red:       BrickHover;
 magenta:   #d33682;
 violet:    Soda;
-blue:      #268bd2;
+blue:      Soda;
 cyan:      Basil;
 green:     Charcoal;
 ```
