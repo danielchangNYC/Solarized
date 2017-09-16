@@ -30,12 +30,14 @@ base3:     Dough
 yellow:    Brick;
 orange:    Cheddar;
 red:       BrickHover;
-magenta:   #d33682;
+magenta:   Pineapple;
 violet:    Soda;
 blue:      Soda;
 cyan:      Basil;
 green:     Charcoal;
 ```
+
+Slice Colors:
 
 ```
 Dough:          #fdf7f1
@@ -50,6 +52,12 @@ Basil:          #15884f
 Soda:           #2d697d
 CharcoalHover:  #3f3f3f
 BrickHover:     #b33f2d
+```
+
+Dan's Slice Colors:
+
+```
+pineapple: #859900
 ```
 
 ## ACCENT
